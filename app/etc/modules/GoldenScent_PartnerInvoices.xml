@@ -4,7 +4,7 @@
     <GoldenScent_PartnerInvoices>
       <active>true</active>
       <codePool>community</codePool>
-      <version>1.0.1</version>
+      <version>1.0.0</version>
     </GoldenScent_PartnerInvoices>
   </modules>
 </config>

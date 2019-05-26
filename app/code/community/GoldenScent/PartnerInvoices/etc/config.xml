@@ -13,11 +13,6 @@
                 </rewrite>
             </adminhtml>
         </blocks>
-        <helpers>
-            <partnerinvoices>
-                <class>GoldenScent_PartnerInvoices_Helper</class>
-            </partnerinvoices>
-        </helpers>
         <models>
             <partnerinvoices>
                 <class>GoldenScent_PartnerInvoices_Model</class>

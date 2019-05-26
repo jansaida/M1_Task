@@ -1,5 +1,10 @@
 <?php
-
+/**
+ * Reference Controller
+ *
+ * @category   GoldenScent
+ * @package    GoldenScent_PartnerInvoices
+ */
 class GoldenScent_PartnerInvoices_IndexController extends Mage_Core_Controller_Front_Action {
 
     public function indexAction() {
