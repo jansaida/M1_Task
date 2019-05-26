@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <GoldenScent_PartnerInvoices>
+      <active>true</active>
+      <codePool>community</codePool>
+      <version>1.0.1</version>
+    </GoldenScent_PartnerInvoices>
+  </modules>
+</config>
